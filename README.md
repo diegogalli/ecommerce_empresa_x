@@ -49,6 +49,6 @@ Contribuidor principal: https://www.github.com/diegogalli
 
 ```javascript
 function soma (a,b){
-    return a+ b ;
+    return a + b ;
 }
 ```
