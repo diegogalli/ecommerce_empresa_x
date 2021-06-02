@@ -4,8 +4,8 @@ Vamos criar um **e-commerce** para a *empresa* DG Informatica
 
 ## Funcionalidades:
 
-Checkout, Tela de produto, Catalago, Home com banner
+_Checkout, **Tela de produto**, Catalago, Home com banner_
 
 ###### Melhorias do projeto:
 
-Acrescentar layout moderno e pic pay
+__Acrescentar layout moderno__ e _pic pay_
