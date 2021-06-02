@@ -34,3 +34,7 @@ __Acrescentar layout moderno__ e _pic pay_
 #### Imagem externa
 
 ![Logo do PHP](https://www.php.net/images/logos/new-php-logo.svg)
+
+## Links interessantes:
+
+[Google](https://www.google.com.br)
