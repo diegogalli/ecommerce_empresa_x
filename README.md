@@ -1,6 +1,6 @@
 # E-commerce DG Informática
 
-Vamos criar um e-commerce para a DG Informatica
+Vamos criar um **e-commerce** para a *empresa* DG Informatica
 
 ## Funcionalidades:
 
