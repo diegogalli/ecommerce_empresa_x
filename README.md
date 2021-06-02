@@ -42,3 +42,5 @@ __Acrescentar layout moderno__ e _pic pay_
 [DG Informática](https://www.instagram.com/informatica.dg/)
 
 Contribuidor principal: https://www.github.com/diegogalli
+
+[![Logo do PHP](https://www.php.net/images/logos/new-php-logo.svg)](https://www.instagram.com/informatica.dg/)
