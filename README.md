@@ -44,3 +44,11 @@ __Acrescentar layout moderno__ e _pic pay_
 Contribuidor principal: https://www.github.com/diegogalli
 
 [![Logo DG Informatica](img/logo_dgi.jpg)](https://www.instagram.com/informatica.dg/)
+
+## Código da função soma
+
+```javascript
+function soma (a,b){
+    return a+ b ;
+}
+```
