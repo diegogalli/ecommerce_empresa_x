@@ -17,3 +17,9 @@ __Acrescentar layout moderno__ e _pic pay_
 * JavaScript
 * PHP
 * MySql
+
+### Funcionalidades a desenvolver
+
+1. Area de membros
+2. Integração com outros pagamentos
+3. Sistema de bonus para primeira compra
