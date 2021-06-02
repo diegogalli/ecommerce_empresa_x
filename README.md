@@ -40,3 +40,5 @@ __Acrescentar layout moderno__ e _pic pay_
 [Google](https://www.google.com.br)
 
 [DG Informática](https://www.instagram.com/informatica.dg/)
+
+Contribuidor principal: https://www.github.com/diegogalli
