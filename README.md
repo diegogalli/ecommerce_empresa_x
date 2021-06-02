@@ -26,3 +26,6 @@ __Acrescentar layout moderno__ e _pic pay_
     3. CSS diferente para grupos de clientes
 2. Integração com outros pagamentos
 3. Sistema de bonus para primeira compra
+
+#### Logo
+![DG Informatica](img/logo_dgi.jpg)
