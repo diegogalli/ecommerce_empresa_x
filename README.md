@@ -55,7 +55,7 @@ function soma (a,b){
 
 ## Task List
 
-- [ x ] Area de membros
+- [x] Area de membros
 - [ ] integração com outros pagamentos
 - [ ] Sistema de bonus
-- [ x ] CSS do rodapé
+- [x] CSS do rodapé
